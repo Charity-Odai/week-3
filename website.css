@@ -1,0 +1,58 @@
+.Heading{
+	height: 170px;
+	background-color: purple;
+	color: white;
+	justify-content:center ;
+	display: flex;
+	align-items: center;
+}
+
+.beginner{
+	text-align: center;
+}
+
+.nav{
+	background-color: slateblue;
+	height: 40px;
+	display: flex;
+	align-items: center;
+}
+
+.nav1{
+	color: white;
+	margin-right: 10px ;
+}
+
+img{
+	background-color: brown;
+	height: 80px; width: 150px;
+}
+
+.mainfeature{
+	display: flex;
+	justify-content: space-between;
+}
+
+.attribute1{
+	flex-direction: column;
+	flex: 0 ;
+	min-width: 500px;
+	background-color: lightgray;
+	padding: 15px;
+	height: 550px;
+}
+
+.attribute2{
+	flex-direction: column;
+	flex: 1;
+	padding: 15px;
+
+}
+
+.footer{
+	background-color: lightblue;
+	height: 50px;
+	margin-top: 0;
+	padding-top: 8px;
+	text-align: center;
+}

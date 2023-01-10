@@ -1,0 +1,40 @@
+
+
+.nav{
+	float: center;
+	height: 80px;
+    background-color: rgb(240, 163, 70);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.hero-selection{
+	float: center;
+	height: 300px;
+	background-color: rgb(240, 163, 70);
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#cards div{
+	background-color: rgb(240, 163, 70);
+	height: 200px;
+	width: 400px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#cards{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.footer{
+	float: center;
+	height: 80px;
+	background-color: rgb(240, 163, 70);
+	margin-left: 20px;
+	margin-right: 20px;
+}

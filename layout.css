@@ -1,0 +1,38 @@
+.nav{
+	float: center;
+	height: 80px;
+    background-color: lightblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.hero-selection{
+	float: center;
+	height: 200px;
+	background-color: lightblue;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#cards div{
+	background-color: lightblue;
+	height: 180px;
+	width: 380px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#cards{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.footer{
+	float: center;
+	height: 80px;
+	background-color: lightblue;
+	margin-left: 20px;
+	margin-right: 20px;
+}	

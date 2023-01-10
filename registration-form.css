@@ -1,0 +1,121 @@
+body {
+	background-color: lightblue;
+}
+
+
+.bar{
+    height: 10px;
+    background-color: red;
+   	border-top-right-radius: 10px;
+   	border-top-left-radius: 10px;
+}
+
+.nav{
+	float: center;
+	height: 220px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.Email{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.name{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.number{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.kin{
+	float: center;
+	height: 170px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.money{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.pay{
+	float: center;
+	height: 170px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.location{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.previous{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.join{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
+
+.hear{
+	float: center;
+	height: 150px;
+    background-color: white;
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-bottom: 10px;
+    border-radius: 10px ;
+}
